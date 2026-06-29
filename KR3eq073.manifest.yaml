@@ -1,0 +1,476 @@
+canonical_identifier: bkk:krp/KR3eq073/v1
+canonical_location: https://kanripo.org/bkk/KR3eq073/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 覺廬醫話錄存
+  identifiers:
+    krp: KR3eq073
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq073.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq073_000.yaml, hash: 'sha256:771ff96902ae434dec7a527e9012e9c367d46e933bd44bfa47b6247fe5d5e787'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq073_000.markers.yaml, hash: 'sha256:501dd6cb7d0732f468eea94d03297f5d14a44ebb14e5b4651e3fd9695a48a0cc'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 919
+  label: 弁言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3.h1s1
+    span:
+    - body
+    - 919
+    - 20493
+  label: 覺廬醫話錄存
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d2
+    span:
+    - body
+    - 925
+    - 1977
+  label: 古人自序
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d3
+    span:
+    - body
+    - 1977
+    - 2370
+  label: 醫不三世
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d4
+    span:
+    - body
+    - 2370
+    - 2727
+  label: 熟讀王叔和不如臨證多
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d5
+    span:
+    - body
+    - 2727
+    - 2962
+  label: 古書之遭割據
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d6
+    span:
+    - body
+    - 2962
+    - 3279
+  label: 古書存疑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d7
+    span:
+    - body
+    - 3279
+    - 3607
+  label: 醫家附會之說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d8
+    span:
+    - body
+    - 3607
+    - 4038
+  label: 世人好溫補之非
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d9
+    span:
+    - body
+    - 4038
+    - 4480
+  label: 小兒之病多由不善防護所致
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d10
+    span:
+    - body
+    - 4480
+    - 4777
+  label: 聖人不治已病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d11
+    span:
+    - body
+    - 4777
+    - 5020
+  label: 用方須知
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d12
+    span:
+    - body
+    - 5020
+    - 5362
+  label: 古方宜忌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d13
+    span:
+    - body
+    - 5362
+    - 5624
+  label: 醫不執方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d14
+    span:
+    - body
+    - 5624
+    - 6101
+  label: 服藥煎藥之法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d15
+    span:
+    - body
+    - 6101
+    - 6662
+  label: 某藥人某經
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d16
+    span:
+    - body
+    - 6662
+    - 7292
+  label: 藥有特性
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d17
+    span:
+    - body
+    - 7292
+    - 7658
+  label: 治血病用炭藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d18
+    span:
+    - body
+    - 7658
+    - 8298
+  label: 產後與生化湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d19
+    span:
+    - body
+    - 8298
+    - 8744
+  label: 麻桂兩證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d20
+    span:
+    - body
+    - 8744
+    - 9063
+  label: 輪迴酒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d21
+    span:
+    - body
+    - 9063
+    - 9361
+  label: 宣通之義
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d22
+    span:
+    - body
+    - 9361
+    - 10693
+  label: 上下異治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d23
+    span:
+    - body
+    - 10693
+    - 11293
+  label: 表裡相通
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d24
+    span:
+    - body
+    - 11293
+    - 11625
+  label: 攻補兼用
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d25
+    span:
+    - body
+    - 11625
+    - 11996
+  label: 瀉痢異治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d26
+    span:
+    - body
+    - 11996
+    - 12330
+  label: 滋陰降火
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d27
+    span:
+    - body
+    - 12330
+    - 12610
+  label: 補陰發表
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d28
+    span:
+    - body
+    - 12610
+    - 13084
+  label: 血脫益氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d29
+    span:
+    - body
+    - 13084
+    - 13404
+  label: 陽生陰長
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d30
+    span:
+    - body
+    - 13404
+    - 13932
+  label: 虛損須知
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d31
+    span:
+    - body
+    - 13932
+    - 14253
+  label: 引火歸源
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d32
+    span:
+    - body
+    - 14253
+    - 14717
+  label: 舌辨寒熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d33
+    span:
+    - body
+    - 14717
+    - 15460
+  label: 平脈病脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d34
+    span:
+    - body
+    - 15460
+    - 15884
+  label: 脈之虛實
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d35
+    span:
+    - body
+    - 15884
+    - 16157
+  label: 傷食脈澀
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d36
+    span:
+    - body
+    - 16157
+    - 16393
+  label: 戰汗脈伏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d37
+    span:
+    - body
+    - 16393
+    - 16909
+  label: 溫病譫語
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d38
+    span:
+    - body
+    - 16909
+    - 17736
+  label: 三消屬火
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d39
+    span:
+    - body
+    - 17736
+    - 18904
+  label: 黃帝內經
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d40
+    span:
+    - body
+    - 18904
+    - 19503
+  label: 石山醫案
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d41
+    span:
+    - body
+    - 19503
+    - 19935
+  label: 丹溪學說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d42
+    span:
+    - body
+    - 19935
+    - 20237
+  label: 東垣方法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d3d43
+    span:
+    - body
+    - 20237
+    - 20493
+  label: 溫病條辯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq073_jc_000-d4.h1s1
+    span:
+    - body
+    - 20493
+    - 21003
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:3ab90c45db8ce529d53f949a9275fef1eceba4b503e212ad15210f76937a04fa
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
